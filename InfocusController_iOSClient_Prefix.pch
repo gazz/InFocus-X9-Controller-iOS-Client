@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'InfocusController_iOSClient' target in the 'InfocusController_iOSClient' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
